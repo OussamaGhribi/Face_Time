@@ -34,9 +34,9 @@ Ensure you have the following installed:
    git clone https://github.com/your-repo/face-time.git
    cd face-time
 2. Install dependencies:
- ```bash
-   npm install
- ```
+    ```bash
+      npm install
+    ```
 3. Start the development server:
    ```bash
    npm start
